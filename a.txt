@@ -5,6 +5,7 @@ mac
 3mac
 3linux
 4mac
+4centos
 5
 66linux
 66mac
