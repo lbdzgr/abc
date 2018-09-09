@@ -5,7 +5,7 @@ mac
 3
 4
 5
-66linux
+66linuxmac
 66mac
 7linux
 centos
